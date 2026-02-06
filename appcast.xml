@@ -7,6 +7,26 @@
         <language>en</language>
         
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in 1.1.1</h2>
+                <ul>
+                    <li>Added: Pricing Plan with More Hours, Add More Language Options</li>
+                    <li>Improved: UI Improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 07 Feb 2026 00:04:00 +0900</pubDate>
+            <enclosure 
+                url="https://github.com/seanyeoh23/yapaway-releases/releases/download/v1.1.1/Yapaway-1.1.1.zip"
+                sparkle:edSignature="Dsq0IUG1S7ppmYeB7CBOpXmPjTD6cnHq2hYssEi5O5cmcCUQQZQRW0z8qKIxdlCORPE+r0/uOuHliczO1mXWDA=="
+                length="3551397"
+                type="application/octet-stream"/>
+        </item>
+        
+        <item>
             <title>Version 1.1.0</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
