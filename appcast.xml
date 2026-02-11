@@ -20,7 +20,7 @@
             <pubDate>Wed, 11 Feb 2026 21:51:31 +0900</pubDate>
             <enclosure 
                 url="https://github.com/seanyeoh23/yapaway-releases/releases/download/v1.1.2/Yapaway-1.1.2.zip"
-                sparkle:edSignature="sparkle:edSignature="K/dHz5iBsFHLKl41Kq/8xPyZn9k5eYUUaNFa3NOcv76xnTcOblNooUbAiGRv+dve6WnFM/onH6ECwG0Wvc2+Aw==" length="3680728""
+                sparkle:edSignature="K/dHz5iBsFHLKl41Kq/8xPyZn9k5eYUUaNFa3NOcv76xnTcOblNooUbAiGRv+dve6WnFM/onH6ECwG0Wvc2+Aw=="
                 length="3680728"
                 type="application/octet-stream"/>
         </item>
